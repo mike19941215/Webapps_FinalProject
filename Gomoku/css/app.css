@@ -1,0 +1,29 @@
+body{
+    font-family: "Arial Black", "微軟正黑體";
+}
+
+form{
+    font-size:20px;
+}
+
+#who{
+    position:relative;
+    top:20px;
+    left:7.5%;
+    font-size:28px;
+}
+
+#time{
+    position:relative;
+    top:20px;
+    left:35%;
+    font-size:24px;
+}
+
+#regulation{
+    font-size:20px;
+}
+
+#Gomoku{
+	width:100%;
+}
